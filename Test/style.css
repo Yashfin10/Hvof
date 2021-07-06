@@ -153,11 +153,11 @@ p{
 }
 
 .button-accent{
-color: #161615;
-border-color: #161615;
+color: #fff;
+border-color: #fff;
 border-width: 0.1em;
 border-radius: 0.4em;
-font-weight: 700;
+font-weight: 900;
 }
 
 .button-accent :hover,
